@@ -1,0 +1,9 @@
+# Place JDivPS data files here:
+#   dict_product_text_release.pkl.gz
+#   product_uvctr_dict_release.pkl.gz
+#   query_suggestions_release.pkl.gz
+#   query_product_features_release.pkl.gz
+#   query_intent_label_tr.csv
+#   query_intent_label_ts.csv
+#
+# Download from: https://github.com/DengZhirui/JDivPS
